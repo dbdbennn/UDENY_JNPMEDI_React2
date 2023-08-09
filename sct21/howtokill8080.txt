@@ -1,0 +1,2 @@
+netstat -a -o
+taskkill /f /pid <pid>
